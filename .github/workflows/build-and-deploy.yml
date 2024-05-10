@@ -1,4 +1,4 @@
-name: Build and Deploy
+name:  Build & publish the container image with Maven & Docker
 
 on:
   push:
