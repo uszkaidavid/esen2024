@@ -1,5 +1,5 @@
 # Use a base image with Java
-FROM adoptopenjdk/openjdk17:alpine
+FROM eclipse-temurin:17-jdk-alpine
 
 # Set the working directory in the image
 WORKDIR /app
